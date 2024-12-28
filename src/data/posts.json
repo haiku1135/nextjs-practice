@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "next.js13-udemy",
+      "title": "Next.js 13 Udemy",
+      "content": "Next.js 13 Udemyの記事です。",
+      "createdAt": "2024-12-28"
+    },
+    {
+      "id": "next.js13-udemy2",
+      "title": "Next.js 13 Udemy2",
+      "content": "Next.js 13 Udemy2の記事です。",
+      "createdAt": "2024-12-28"
+    },
+    {
+      "id": "Next.js-test",
+      "title": "Next.jsって良いね",
+      "content": "appディレクトリはデフォルトでSSR",
+      "createdAt": "2024-12-28T07:54:17.295Z"
+    },
+    {
+      "id": "test",
+      "title": "test",
+      "content": "test",
+      "createdAt": "2024-12-28T07:55:54.196Z"
+    },
+    {
+      "id": "",
+      "title": "",
+      "content": "",
+      "createdAt": "2024-12-28T07:58:51.670Z"
+    }
+  ]
+}
